@@ -101,6 +101,7 @@
 <img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/confusion_matrix.png" width="600" height="450">  
 #### 测试效果如下：
 <img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/train_batch2.jpg" width="300" height="300"><img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/train_batch0.jpg" width="300" height="300"/>   
+<img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/testvedio.gif" width="720" height="404">  
 ## 数据集下载地址
 百度云地址：`https://pan.baidu.com/s/1uSdGbXAyZKbxD4fQdOrZzA?pwd=1234`  提取码：1234<br/>
 
