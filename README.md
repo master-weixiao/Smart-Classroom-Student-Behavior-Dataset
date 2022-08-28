@@ -94,13 +94,13 @@
 ## 数据集训练
 使用yolov5训练正方视角数据集，训练轮次（epco）=300，使用yolov5s模型  
 #### 训练结果如下：
-<img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/F1_curve.png" width="450" height="300"><img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/PR_curve.png" width="450" height="300"/>  
-<img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/P_curve.png" width="450" height="300"><img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/R_curve.png" width="450" height="300"/>  
-<img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/labels.jpg" width="450" height="450"><img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/labels_correlogram.jpg" width="450" height="450"/>   
-<img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/results.png" width="900" height="450">  
+<img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/F1_curve.png" width="300" height="200"><img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/PR_curve.png" width="300" height="200"/>  
+<img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/P_curve.png" width="300" height="200"><img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/R_curve.png" width="300" height="200"/>  
+<img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/labels.jpg" width="300" height="300"><img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/labels_correlogram.jpg" width="300" height="300"/>   
+<img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/results.png" width="600" height="300">  
 <img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/confusion_matrix.png" width="600" height="450">  
 #### 测试效果如下：
-<img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/train_batch2.jpg" width="450" height="450"><img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/train_batch0.jpg" width="450" height="450"/>   
+<img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/train_batch2.jpg" width="300" height="300"><img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/train_batch0.jpg" width="300" height="300"/>   
 ## 数据集下载地址
 百度云地址：`https://pan.baidu.com/s/1uSdGbXAyZKbxD4fQdOrZzA?pwd=1234`  提取码：1234<br/>
 
