@@ -6,7 +6,7 @@
 智慧课堂学生行为数据集仅限于学术研究使用，___禁止商业应用和其他用途___。<br/>
 ## 数据集构成
 #### 智慧课堂学生行为数据集按拍摄角度分为正面视角、斜上方视角、后方视角、教师视角<br/>
-![智慧课堂采集数据的四类视角](https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/智慧课堂采集数据的四类视角.png)  
+![智慧课堂采集数据的四类视角](https://cdn7.232232.xyz/21/2022/08/28-630b61a5e004c.png)  
 #### 数据集具体指标如下：
 | 维度 | 片段数 | 时长分布（s） | 总大小 | 视频尺寸 | 帧速率 |
 | :----: | :----: | :----: | :----: | :----: | :----: |
@@ -16,7 +16,7 @@
 | 教师视角 | 2918 | 1-106 | 1.93G | 800×450 | 25f/s |
 ## 正方视角数据集标注情况
 #### 正方视角学生行为分类图例  
-![学生行为分类图例](https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/学生行为分类图例.png)  
+![学生行为分类图例](https://cdn7.232232.xyz/21/2022/08/28-630b61cdb331c.png)  
 #### 正方视角下的学生行为数据集标注如下：
 <table>
 	<tr>
@@ -94,13 +94,13 @@
 ## 数据集训练
 使用yolov5训练正方视角数据集，训练轮次（epco）=300，使用yolov5s模型  
 #### 训练结果如下：
-<img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/F1_curve.png" width="300" height="200"><img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/PR_curve.png" width="300" height="200"/>  
-<img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/P_curve.png" width="300" height="200"><img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/R_curve.png" width="300" height="200"/>  
-<img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/labels.jpg" width="300" height="300"><img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/labels_correlogram.jpg" width="300" height="300"/>   
-<img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/results.png" width="600" height="300">  
-<img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/confusion_matrix.png" width="600" height="450">  
+<img src="https://cdn7.232232.xyz/21/2022/08/28-630b627fa474d.png" width="300" height="200"><img src="https://cdn7.232232.xyz/21/2022/08/28-630b62aad8b5f.png" width="300" height="200"/>  
+<img src="https://cdn7.232232.xyz/21/2022/08/28-630b62ac2efe2.png" width="300" height="200"><img src="https://cdn7.232232.xyz/21/2022/08/28-630b62cdc7b97.png" width="300" height="200"/>  
+<img src="https://cdn7.232232.xyz/21/2022/08/28-630b629069057.jpg" width="300" height="300"><img src="https://cdn7.232232.xyz/21/2022/08/28-630b6291a79d1.jpg" width="300" height="300"/>   
+<img src="https://cdn7.232232.xyz/21/2022/08/28-630b62cee7fec.png" width="600" height="300">  
+<img src="https://cdn7.232232.xyz/21/2022/08/28-630b627a8271b.png" width="600" height="450">  
 #### 测试效果如下：
-<img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/train_batch2.jpg" width="300" height="300"><img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/train_batch0.jpg" width="300" height="300"/>   
+<img src="https://cdn7.232232.xyz/21/2022/08/28-630b62cfa0306.jpg" width="300" height="300"><img src="https://cdn7.232232.xyz/21/2022/08/28-630b62dbef4a6.jpg" width="300" height="300"/>   
 <img src="https://github.com/GX1300/Smart-Classroom-Student-Behavior-Dataset/blob/main/Picture/testvedio.gif" width="720" height="404">  
 ## 数据集下载地址
 百度云地址：`https://pan.baidu.com/s/1uSdGbXAyZKbxD4fQdOrZzA?pwd=1234`  提取码：1234<br/>
